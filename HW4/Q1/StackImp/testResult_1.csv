@@ -1,0 +1,20 @@
+StackA 7: 1,2,3,4,5,6,7
+StackB 7: 1,2,3,4,5,6,7
+StackC 7: 1,2,3,4,5,6,7
+StackD 7: 1,2,3,4,5,6,7
+
+StackA 5: 1.2,2.3,4.5,6.7,4.0
+StackB 5: 1.2,2.3,4.5,6.7,4.0
+StackC 5: 1.2,2.3,4.5,6.7,4.0
+StackD 5: 1.2,2.3,4.5,6.7,4.0
+
+StackA 7: a,g,h,j,t,d,f
+StackB 7: a,g,h,j,t,d,f
+StackC 7: a,g,h,j,t,d,f
+StackD 7: a,g,h,j,t,d,f
+
+StackA 3: kitap,kalem,defter
+StackB 3: kitap,kalem,defter
+StackC 3: kitap,kalem,defter
+StackD 3: kitap,kalem,defter
+
